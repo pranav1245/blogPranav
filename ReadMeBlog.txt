@@ -10,3 +10,4 @@ Install Laravel in your computer
 2)Create folder "YourFolder"
 3)cd "YourFolder"
 4)Type : git clone https://github.com/pranav1245/blogPranav.git and hit enter
+5) Rename file " - env.env" to ".env"
